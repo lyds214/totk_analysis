@@ -1,0 +1,5 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+29143,MainField,B-4,0x2526a2e721c46c88,Enemy_Drake_Fire,Surface42,Lindor's Brow,0,,1,,,"[-3624.72, 365.43, -420.24]",Table,['Default']
+73512,MainField,C-7,0xb5c14744b5c2f0f4,Enemy_Drake_Fire,Surface73,Gerudo Canyon,0,,1,,,"[-2114.5, 507.07, 2639.78]",Table,['OneTime']
+128309,MainField,E-7,0x2db15608b3e7a804,Enemy_Drake_Fire,Surface10,Popla Foothills,0,,1,,,"[-47.47, 145, 2491.1]",Table,['Default']
+219241,MainField,H-4,0x617c3fd2659c63fc,Enemy_Drake_Fire,Surface92,Upland Zorana,0,,1,,,"[2238.5, 900, -693.5]",Table,['Default']

@@ -1,0 +1,7 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+341088,MinusField,C-7,0x916c66dc7244a5d0,Enemy_Lynel_Boss_Middle,Depths73,,1,"['Weapon_Bow_026', 'Weapon_Sword_112', 'Weapon_Shield_017']",0,,,"[-2798.87, -376.93, 2238.38]",Table,['Minus']
+427259,MinusField,G-3,0x8705145e6bb128b0,Enemy_Lynel_Boss_Middle,Depths17,,1,"['Weapon_Bow_026', 'Weapon_Lsword_113']",0,,,"[1040.62, -369.17, -1124.46]",Table,['Minus']
+441973,MinusField,G-8,0x9776eaac075d5f5f,Enemy_Lynel_Boss_Middle,Depths59,,1,"['Weapon_Bow_026', 'Weapon_Spear_113']",0,,,"[1584.7, -407.09, 3496.46]",Table,['Minus']
+447140,MinusField,H-3,0x0e98c9d3017e3cef,Enemy_Lynel_Boss_Middle,Depths107,,0,"['Weapon_Bow_026', 'Weapon_Sword_112', 'Weapon_Shield_017']",0,,,"[2604.15, -492.46, -1145.44]",Table,['Minus']
+470303,MinusField,I-3,0x9cff0a9c03ee457a,Enemy_Lynel_Boss_Middle,Depths2,,0,"['Weapon_Bow_026', 'Weapon_Lsword_113']",0,,,"[3149.83, -544.6, -1692.65]",Table,['Minus']
+488145,MinusField,J-2,0xd7ea4f964fa3ffb0,Enemy_Lynel_Boss_Middle,Depths20,,1,"['Weapon_Bow_026', 'Weapon_Sword_112', 'Weapon_Shield_017']",0,,,"[4212.09, -467.54, -2721.1]",Table,['Minus']

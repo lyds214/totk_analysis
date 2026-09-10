@@ -1,0 +1,6 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+187900,MainField,G-5,0xfdd6dd4aa213e7cb,Enemy_Chuchu_Senior,Surface65,Sahasra Slope,0,,0,,,"[1231.58, 116.26, 388.6]",Table,['Default']
+551977,MainField,LargeDungeon__LargeDungeonWater_AllinArea ,0xc8a210ac95fe962b,Enemy_Chuchu_Senior,Sky34,,0,,0,,,"[3405.55, 1848.4, -753.46]",Table,['Default']
+551979,MainField,LargeDungeon__LargeDungeonWater_AllinArea ,0x051be1b4cefe9457,Enemy_Chuchu_Senior,Sky34,,0,,0,,,"[3467.36, 1897.9, -709.36]",Table,['Default']
+381279,MinusField,E-4,0xc02b55bc6d3de9f5,Enemy_Chuchu_Senior,Depths79,,0,,0,,,"[-253.43, -1119.46, -651.58]",Table,['Default']
+381280,MinusField,E-4,0x7adc6415757021fd,Enemy_Chuchu_Senior,Depths79,,0,,0,,,"[-249.37, -1089.35, -578.73]",Table,['Default']

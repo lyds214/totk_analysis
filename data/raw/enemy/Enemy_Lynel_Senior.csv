@@ -1,0 +1,6 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+5540,MainField,A-5,0x327c0a051fc8b9e3,Enemy_Lynel_Senior,Surface0,Gerudo Highlands,0,"['Weapon_Bow_032', 'Weapon_Spear_124']",0,,,"[-4445.27, 613.03, 988.9]",Table,['Arrow']
+201325,MainField,G-8,0xd1b1988a717e5b8a,Enemy_Lynel_Senior,Surface59,Popla Foothills,0,"['Weapon_Bow_032', 'Weapon_Lsword_124']",0,,,"[1464.46, 311.94, 3036.49]",Table,['Arrow']
+250396,MainField,I-4,0x81cb45f743725124,Enemy_Lynel_Senior,Surface56,Upland Zorana,0,"['Weapon_Bow_032', 'Weapon_Sword_113', 'Weapon_Shield_018']",0,,,"[3877.23, 354.1, -950.76]",Table,['Arrow']
+366616,MinusField,D-6,0xd14376455b769e7c,Enemy_Lynel_Senior,Depths6,,0,"['Weapon_Bow_026', 'Weapon_Spear_113']",1,,,"[-1207.41, -394.09, 1278.09]",Table,['Minus_Arrow']
+381248,MinusField,E-4,0xdfac88ab201efeae,Enemy_Lynel_Senior,Depths79,,1,"['Weapon_Bow_032', 'Weapon_Sword_124', 'Weapon_Shield_018']",0,,,"[-245.92, -985.1, -792.34]",Table,['Minus']

@@ -1,0 +1,9 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+31242,MainField,B-5,0x7cffa869f9500379,Enemy_Wizzrobe_Fire_Senior,Surface4,Gerudo Highlands,0,"['Weapon_Sword_161', 'FireFruit']",0,,,"[-3368.89, 503.71, 729.58]",Table,['Default']
+31263,MainField,B-5,0x9d7a016b71dacf6d,Enemy_Wizzrobe_Fire_Senior,Surface4,Gerudo Highlands,0,"['Weapon_Sword_161', 'FireFruit']",0,,,"[-3754.18, 271.52, 147.85]",Table,['Default']
+40352,MainField,B-7,0x030f96a4efe5a5c7,Enemy_Wizzrobe_Fire_Senior,Surface106,Gerudo Highlands,0,"['Weapon_Sword_112', 'FireFruit']",0,,,"[-3514.52, 267.8, 2001.93]",Table,['Default']
+40551,MainField,B-7,0xbe1a08d3d2e9ce7e,Enemy_Wizzrobe_Fire_Senior,Surface106,Gerudo Highlands,0,"['Weapon_Sword_161', 'FireFruit']",0,,,"[-3585.69, 219.06, 2062.91]",Table,['Default']
+72151,MainField,C-7,0x41feb6ea6a580c39,Enemy_Wizzrobe_Fire_Senior,Surface106,Gerudo Highlands,0,"['Weapon_Sword_161', 'FireFruit']",0,,,"[-2913.68, 241.33, 2129.59]",Table,['Default']
+102671,MainField,D-8,0xec1e5e1f668aaf00,Enemy_Wizzrobe_Fire_Senior,Surface73,Gerudo Canyon,0,"['Weapon_Sword_161', 'FireFruit']",0,,,"[-1749.05, 222.88, 3203.18]",Table,['Default']
+245939,MainField,I-3,0x5601ace340a792af,Enemy_Wizzrobe_Fire_Senior,Surface33,Upland Zorana,0,"['Weapon_Sword_161', 'FireFruit']",0,,,"[3801, 348.04, -1123]",Table,['Default']
+273637,MainField,J-3,0xc472724aea913f60,Enemy_Wizzrobe_Fire_Senior,Surface75,Upland Zorana,0,"['Weapon_Sword_161', 'FireFruit']",0,,,"[4663.45, 356.75, -1025.55]",Table,['Default']

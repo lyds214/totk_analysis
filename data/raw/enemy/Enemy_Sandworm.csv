@@ -1,0 +1,5 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+11489,MainField,A-7,0x0a00113ed5e79610,Enemy_Sandworm,Surface21,Gerudo Canyon,0,,1,,,"[-4797.12, 133.21, 2800.42]",Table,['Default']
+11775,MainField,A-7,0xdf8f967c7441e7fe,Enemy_Sandworm,Surface72,Gerudo Canyon,0,,1,,,"[-4029, 148.9, 2589.12]",Table,['Default']
+45798,MainField,B-8,0x0a00113e4927f094,Enemy_Sandworm,Surface21,Gerudo Canyon,0,,1,,,"[-3323.2, 121.37, 3315.89]",Table,['Default']
+76225,MainField,C-8,0xd99cee361966b53a,Enemy_Sandworm,Surface21,Gerudo Canyon,0,,1,,,"[-2401, 128.08, 3268.04]",Table,['Default']
