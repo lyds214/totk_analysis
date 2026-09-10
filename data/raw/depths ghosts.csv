@@ -1,0 +1,680 @@
+Hash ID,Object Map Link,Map Tile,X,Y,Height,Each Weapon Chance,Possible Weapon 1,Possible Weapon 2,Possible Weapon 3,Possible Weapon 4,Possible Weapon 5
+0xbceab7423c06295b,Link,A-1,-4072,3261,-616,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0xff04799d12e8b1ed,Link,A-1,-4265,3235,-838,33%,Royal Halberd,Knight's Halberd,Feathered Spear,-,-
+0x2f031d84344a410a,Link,A-1,-4542,3326,-731,33%,Royal Broadsword,Knight's Broadsword,Feathered Edge,-,-
+0x29021af38016c9c6,Link,A-1,-4411,3000,-839,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0x178dcda3afb6fe3b,Link,A-2,-4593,2782,-665,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0x3a1f7ab92ea14360,Link,A-2,-4260,2979,-838,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0x39d1ba3db0ddccde,Link,A-2,-4587,2980,-667,33%,Royal Halberd,Knight's Halberd,Feathered Spear,-,-
+0xdefbae3221ff3b08,Link,A-2,-4526,2240,-552,33%,Royal Halberd,Knight's Halberd,Feathered Spear,-,-
+0xe234cfcefbf31a9b,Link,A-2,-4269,2148,-463,33%,Royal Halberd,Knight's Halberd,Feathered Spear,-,-
+0x745fccc22471953a,Link,A-2,-4267,2364,-552,33%,Royal Halberd,Knight's Halberd,Feathered Spear,-,-
+0xc6cb6e5418bf742b,Link,A-2,-4425,2920,-804,33%,Royal Broadsword,Knight's Broadsword,Feathered Edge,-,-
+0xa6fc85226acda96e,Link,A-2,-4240,2834,-633,33%,Royal Broadsword,Knight's Broadsword,Feathered Edge,-,-
+0xc756eb69c74f6ce6,Link,A-2,-4068,2506,-462,33%,Royal Broadsword,Knight's Broadsword,Feathered Edge,-,-
+0x8f4e5daacdd6c30d,Link,A-2,-4165,2079,-551,33%,Royal Broadsword,Knight's Broadsword,Feathered Edge,-,-
+0xd9e2149202e5e27a,Link,A-3,-4257,1890,-600,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0x827d4684144dc158,Link,A-3,-4093,1627,-556,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0xdc0675ad6f3d141e,Link,A-3,-4020,1190,-545,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x72856158f312b94b,Link,A-3,-4360,1929,-551,33%,Knight's Halberd,Soldier's Spear,Feathered Spear,-,-
+0x85ee2f722b0aabad,Link,A-3,-4098,1764,-580,33%,Knight's Halberd,Soldier's Spear,Feathered Spear,-,-
+0x8598034b330a44c3,Link,A-4,-4094,445,-542,33%,Knight's Halberd,Soldier's Spear,Feathered Spear,-,-
+0xbea99c8c3cff9bab,Link,A-5,-4596,-376,-1064,20%,Royal Claymore,Knight's Claymore,Soldier's Claymore,Giant Boomerang,Royal Guard's Claymore
+0x4bde3403fb525fdd,Link,A-5,-4318,-45,-540,33%,Knight's Claymore,Soldier's Claymore,Gerudo Claymore,-,-
+0x730bf48c6f64b648,Link,A-5,-4067,-728,-1117,20%,Royal Claymore,Knight's Claymore,Soldier's Claymore,Giant Boomerang,Royal Guard's Claymore
+0x93edc7b1ef88d039,Link,A-5,-4714,-499,-1083,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0xf22b95557ee75c8c,Link,A-5,-4769,-985,-1045,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0x65bd96c6cf816264,Link,A-5,-4012,-538,-975,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0x5ef2242783144cb0,Link,A-5,-4144,-855,-1114,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0x1cbb0ed382de0b20,Link,A-5,-3982,-1053,-1105,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0xb81fe0b9d562340a,Link,A-5,-4370,-514,-835,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0xbbea1461be92e0e3,Link,A-5,-4814,-710,-1092,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0x038e8ce61965412c,Link,A-5,-4236,-628,-1103,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0xaac780b89eb84a11,Link,A-6,-4912,-1321,-847,33%,Knight's Claymore,Soldier's Claymore,Gerudo Claymore,-,-
+0xfb5eadee1ae50488,Link,A-6,-4507,-1436,-888,20%,Royal Claymore,Knight's Claymore,Soldier's Claymore,Giant Boomerang,Royal Guard's Claymore
+0xf9e00a5b50fc876f,Link,A-6,-4062,-1922,-569,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x39fe40229d78fb0b,Link,A-6,-4900,-1033,-1093,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0xb0fc35985b156093,Link,A-6,-4750,-1948,-478,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x373fa960ebb2e343,Link,A-6,-4284,-1656,-542,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x5b81716b66177b2c,Link,A-6,-4494,-1846,-585,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x434e678249947f87,Link,A-6,-4873,-1148,-952,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0xdf3d3b7f0fb6fe8b,Link,A-6,-4312,-1840,-511,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x82de9c16a8e81df2,Link,A-7,-4683,-2812,-470,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xa5910292f40fc6d6,Link,A-7,-4040,-2035,-489,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x869c3e793861ea6d,Link,A-7,-4365,-2382,-510,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x8e5fdafc4e1ce055,Link,A-7,-4224,-2323,-505,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xbb3af60c2bb20d72,Link,A-7,-4304,-2764,-483,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xd0c264cc31136f23,Link,A-7,-4700,-2321,-486,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x7a0b56088b041500,Link,A-7,-4343,-2591,-489,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x6769e4777a77d8b8,Link,A-7,-4664,-2633,-483,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x7f963d3ab1ef89bf,Link,A-7,-4090,-2323,-486,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0xd3f4fa8a4c030c94,Link,A-7,-4391,-2956,-482,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0xf1596394d296013f,Link,A-8,-4360,-3331,-476,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x3798657387572d8b,Link,A-8,-4244,-3428,-465,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xac7240b04ea8c456,Link,A-8,-4552,-3213,-476,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0xf190929aa0196649,Link,A-8,-4923,-3897,-463,33%,Knight's Halberd,Soldier's Spear,Gerudo Spear,-,-
+0xcb2ee25d2330d658,Link,A-8,-4052,-3524,-478,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x9688effd91b1e5be,Link,A-8,-4729,-3259,-476,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x19c89d4ec361e0c6,Link,A-8,-4890,-3490,-476,33%,Knight's Broadsword,Soldier's Broadsword,Gerudo Scimitar,-,-
+0x073fd6b7b998d58a,Link,A-8,-4919,-3795,-464,33%,Knight's Broadsword,Soldier's Broadsword,Gerudo Scimitar,-,-
+0x73481bf37b796ce2,Link,A-8,-4271,-3140,-479,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0xe5fd471271bc065e,Link,A-8,-4055,-3005,-483,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x8b047161f5d7b754,Link,A-8,-4066,-3297,-474,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0xa38991a7c4c0b3fa,Link,A-8,-4443,-3787,-477,33%,Knight's Broadsword,Soldier's Broadsword,Gerudo Scimitar,-,-
+0x3a24de486fd79ea6,Link,A-8,-4205,-3597,-469,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0xf78bca6634ced067,Link,B-1,-3891,3679,-867,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0x9d65690549926641,Link,B-1,-3646,3475,-870,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0xe2093cb5a8569abe,Link,B-1,-3126,3371,-901,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0x2f617d1ddd21f09b,Link,B-1,-3144,3164,-951,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0x8b504a28c11a036b,Link,B-1,-3678,3738,-761,33%,Royal Halberd,Knight's Halberd,Feathered Spear,-,-
+0x9b4a64ac78bbda4a,Link,B-1,-3975,3423,-689,33%,Royal Halberd,Knight's Halberd,Feathered Spear,-,-
+0xbe6c7af2dc0480ab,Link,B-2,-3805,2709,-536,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0xd37bbefb453d6daa,Link,B-2,-3681,2349,-666,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0x66fe292d0edfcf37,Link,B-2,-3483,2624,-851,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0x2b38828ec1adddc5,Link,B-2,-3170,2897,-852,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0x739b28c69278111c,Link,B-2,-3331,2143,-677,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0x4a2e0e39eece8cfd,Link,B-2,-3849,2131,-583,33%,Royal Halberd,Knight's Halberd,Feathered Spear,-,-
+0xf4bf60f3aa4c840b,Link,B-2,-3609,2152,-585,33%,Royal Halberd,Knight's Halberd,Feathered Spear,-,-
+0x04e8801e6b79e4c4,Link,B-2,-3139,2977,-848,33%,Royal Halberd,Knight's Halberd,Feathered Spear,-,-
+0xa408263403f3ab36,Link,B-2,-3354,2899,-857,33%,Royal Broadsword,Knight's Broadsword,Feathered Edge,-,-
+0x63a9dca5ba0367a3,Link,B-3,-3902,1370,-662,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0xb95eaaecdf72148a,Link,B-3,-3550,1134,-566,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0xf5e98f3fde73d6b0,Link,B-3,-3183,1712,-580,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0xa36f53ca9e6ec63b,Link,B-3,-3060,1391,-663,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x6d11aeff05a0473c,Link,B-3,-3677,1569,-578,33%,Knight's Halberd,Soldier's Spear,Feathered Spear,-,-
+0xf0f8bd1575d9a1b3,Link,B-3,-3863,1470,-633,33%,Knight's Halberd,Soldier's Spear,Feathered Spear,-,-
+0x7117cc168a0827a1,Link,B-3,-3828,1199,-546,33%,Knight's Halberd,Soldier's Spear,Feathered Spear,-,-
+0xcb4f9b099cb3c756,Link,B-3,-3191,1859,-589,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0x0cedf65e4ca9fe56,Link,B-4,-3458,42,-532,33%,Knight's Claymore,Soldier's Claymore,Giant Boomerang,-,-
+0x186ccfb7300f8bc6,Link,B-4,-3145,224,-550,33%,Knight's Claymore,Soldier's Claymore,Giant Boomerang,-,-
+0xa60cce39102bfed4,Link,B-4,-3947,1002,-541,33%,Knight's Halberd,Soldier's Spear,Feathered Spear,-,-
+0x16e0b45f1457c44c,Link,B-4,-3563,628,-609,33%,Knight's Halberd,Soldier's Spear,Feathered Spear,-,-
+0x42a1b5bca7a1da21,Link,B-4,-3127,36,-651,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0xb3b97ec81d4d4e03,Link,B-4,-3921,898,-546,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0x819672291e6bb282,Link,B-4,-3607,370,-715,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0x352ac4d8afa58196,Link,B-4,-4008,157,-434,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x2a9f344e04111f62,Link,B-4,-3772,220,-519,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0x9a6501ee48174eae,Link,B-4,-3670,44,-490,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x7573c33db6a0a379,Link,B-4,-3241,979,-589,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0xd5a9f8d0125728b2,Link,B-4,-3039,864,-342,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x939820e7958eedcb,Link,B-4,-3462,148,-343,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0xbf2ca39bfcae9b55,Link,B-5,-3949,-875,-1119,20%,Royal Claymore,Knight's Claymore,Soldier's Claymore,Giant Boomerang,Royal Guard's Claymore
+0x168a45df1e958e49,Link,B-5,-3330,-775,-832,33%,Knight's Claymore,Soldier's Claymore,Gerudo Claymore,-,-
+0x2ced52054252f8cb,Link,B-5,-3206,-493,-622,33%,Knight's Claymore,Soldier's Claymore,Gerudo Claymore,-,-
+0x477ede58548f010e,Link,B-5,-3554,-2,-515,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x08ac73bb0a17e347,Link,B-5,-3822,-381,-847,33%,Knight's Broadsword,Soldier's Broadsword,Gerudo Scimitar,-,-
+0x918e7a9110c42d0f,Link,B-5,-3061,-342,-499,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x4563dfa5f2dcee55,Link,B-5,-3366,-944,-1026,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0xc7f67270b722e5e4,Link,B-5,-3122,-643,-634,33%,Knight's Broadsword,Soldier's Broadsword,Gerudo Scimitar,-,-
+0xff4686efa2708122,Link,B-5,-3506,-867,-1032,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0x7fb7649ad61dda6e,Link,B-6,-3772,-1381,-796,33%,Knight's Claymore,Soldier's Claymore,Gerudo Claymore,-,-
+0x5deb00694033d7ef,Link,B-6,-3665,-1194,-929,20%,Royal Claymore,Knight's Claymore,Soldier's Claymore,Giant Boomerang,Royal Guard's Claymore
+0x1112ae91ad82a513,Link,B-6,-3987,-1354,-859,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0x5e1ad4f26dc39a3e,Link,B-6,-3503,-1837,-793,33%,Knight's Halberd,Soldier's Spear,Gerudo Spear,-,-
+0x28e1443e935dead5,Link,B-6,-3641,-1995,-606,33%,Knight's Halberd,Soldier's Spear,Gerudo Spear,-,-
+0x854bde2a2deef675,Link,B-6,-3805,-1026,-1000,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0xe53de22ff61260e6,Link,B-6,-3902,-1628,-726,33%,Knight's Broadsword,Soldier's Broadsword,Gerudo Scimitar,-,-
+0x7ce6358c86316dc5,Link,B-6,-3424,-1153,-951,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0x0a26e1bbca51142d,Link,B-6,-3483,-1317,-839,33%,Knight's Broadsword,Soldier's Broadsword,Gerudo Scimitar,-,-
+0x199aba3560d20fc3,Link,B-6,-3444,-1680,-818,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0xeb5783688066cc90,Link,B-7,-3927,-2249,-494,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xa0bd7e12850f888c,Link,B-7,-3926,-2403,-494,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x3a684d262a89b914,Link,B-7,-3592,-2422,-477,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xe571c03626702a91,Link,B-7,-3636,-2546,-478,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x08e32f26228c355d,Link,B-7,-3146,-2153,-457,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x4fd9c28ee9b01a5c,Link,B-7,-3052,-2287,-467,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x5be87c8c9c5d7752,Link,B-7,-3500,-2661,-476,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x64d2b431d74a4efb,Link,B-7,-3218,-2844,-472,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x10cff6251291b6f0,Link,B-7,-3344,-2586,-469,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0xdbaed45d578961cc,Link,B-7,-3715,-2380,-475,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x4b450f8e68a62ee9,Link,B-7,-3631,-2677,-483,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x362140c9969332ed,Link,B-7,-3470,-2967,-475,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x7b14837f866f1762,Link,B-8,-3249,-3506,-459,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x8e37e317db2d73b3,Link,B-8,-3084,-3512,-453,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x1f8a121eda249591,Link,B-8,-3701,-3338,-476,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x962bcde85ca6d31c,Link,B-8,-3866,-3566,-460,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x38c534531fe344f5,Link,B-8,-3528,-3813,-469,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x3757e2f67635110c,Link,B-8,-3141,-3595,-458,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x01bba8696c80f18d,Link,B-8,-3852,-3264,-470,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x13fcca9ff0be4181,Link,B-8,-3928,-3446,-472,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x7eac6f4d7795e7ea,Link,B-8,-3049,-3172,-458,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0xd2c281746ee3d823,Link,B-8,-3062,-3365,-454,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x715b95940a11028e,Link,B-8,-3471,-3505,-461,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x3becf55422cf253d,Link,B-8,-3009,-3591,-456,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x6ce80b716d4c51a0,Link,C-1,-2940,3072,-1003,33%,Royal Broadsword,Knight's Broadsword,Feathered Edge,-,-
+0xf792e7a71c492b61,Link,C-1,-2292,3190,-1016,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0xc0012d9d5b905e51,Link,C-2,-2952,2696,-851,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0xf17523de31c7f133,Link,C-2,-2562,2698,-944,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0xcdf680cf7f8379d1,Link,C-2,-2705,2355,-792,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0x8402eff447cadd44,Link,C-2,-2617,2147,-773,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0xa6e2b49c55bebdf3,Link,C-2,-2376,2867,-807,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0x96c166c4013b57d1,Link,C-2,-2197,2676,-696,33%,Royal Claymore,Knight's Claymore,Soldier's Claymore,-,-
+0xe0f9ced79632c318,Link,C-2,-2316,2424,-657,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0xa7dfde0f8dd45d0d,Link,C-2,-2658,2622,-856,33%,Royal Halberd,Knight's Halberd,Feathered Spear,-,-
+0x45fa69a6b130360a,Link,C-2,-2070,2378,-684,33%,Knight's Halberd,Soldier's Spear,Feathered Spear,-,-
+0xb2389b1411db8e6b,Link,C-2,-2555,2878,-985,33%,Royal Broadsword,Knight's Broadsword,Feathered Edge,-,-
+0xbc4c0886b7a0c433,Link,C-2,-2816,2282,-786,33%,Royal Broadsword,Knight's Broadsword,Feathered Edge,-,-
+0x67010ef09a1c2a3d,Link,C-2,-2198,2998,-753,33%,Royal Broadsword,Knight's Broadsword,Feathered Edge,-,-
+0xda5450c002f335c0,Link,C-2,-2402,2247,-667,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0x7633435681649642,Link,C-3,-2506,1703,-694,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0xad2e629784587bde,Link,C-3,-2869,1431,-398,33%,Knight's Claymore,Soldier's Claymore,Giant Boomerang,-,-
+0x0ced88d985a1c49f,Link,C-3,-2937,1142,-360,33%,Knight's Claymore,Soldier's Claymore,Giant Boomerang,-,-
+0xc249fc91386ef117,Link,C-3,-2981,1574,-688,33%,Knight's Halberd,Soldier's Spear,Feathered Spear,-,-
+0x091d3b69255d8705,Link,C-3,-2681,1455,-481,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0x788c8ce2ce1d3669,Link,C-3,-2069,1313,-692,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0xf222a5f4c4a9379b,Link,C-3,-2955,1246,-402,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0xdb70ed9f258b084c,Link,C-3,-2471,1625,-629,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0xc5cd8911316d9013,Link,C-3,-2064,1704,-375,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0xbbdfd4ac7ac04686,Link,C-3,-2348,1393,-599,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0xa32f120db766403c,Link,C-4,-2463,65,-611,33%,Knight's Claymore,Soldier's Claymore,Giant Boomerang,-,-
+0x9c6fb7d04b8ffdce,Link,C-4,-2807,688,-682,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0x9471161766dad18e,Link,C-4,-2792,162,-594,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0xbcb003680e089adb,Link,C-4,-2406,838,-543,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0x3d3689ff3d12b6b4,Link,C-4,-2501,768,-652,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0x619da95af788f722,Link,C-4,-2939,352,-633,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x6f85b0158c1afceb,Link,C-4,-2433,565,-559,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x72e670625f4b23e3,Link,C-4,-2008,385,-546,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x88e691a174ca9e7c,Link,C-5,-2964,-269,-517,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0x3a73bd7bcd4b63ac,Link,C-5,-2603,-703,-647,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x675479a007d6b04e,Link,C-5,-2470,-457,-639,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0xcbfec32d5569c4ef,Link,C-5,-2409,-733,-637,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x5f422f71b4c25325,Link,C-5,-2502,-67,-567,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x40ea2d7a73fa429e,Link,C-5,-2677,-279,-532,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x0fa718b1dd527812,Link,C-5,-2662,-940,-534,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0x4d0e523f1b806b12,Link,C-5,-2144,-593,-630,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0xd26d71d6f7ab2886,Link,C-5,-2059,-834,-531,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0xca96bb9126e3b2b2,Link,C-5,-2749,-845,-538,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x8cd5848459a5295b,Link,C-5,-2715,-181,-647,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0xbab9c712eba86b64,Link,C-6,-2903,-1055,-875,20%,Royal Claymore,Knight's Claymore,Soldier's Claymore,Giant Boomerang,Royal Guard's Claymore
+0x3d44bd0f76f6fae8,Link,C-6,-2658,-1754,-861,20%,Royal Claymore,Knight's Claymore,Soldier's Claymore,Giant Boomerang,Royal Guard's Claymore
+0x7a05f77b5c164830,Link,C-6,-2625,-1132,-694,33%,Knight's Halberd,Soldier's Spear,Gerudo Spear,-,-
+0xf7adbab90e87c5ca,Link,C-6,-2432,-1045,-573,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0xbb32487c2313c93b,Link,C-6,-2050,-1267,-546,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x993f4c496f133c8d,Link,C-6,-2422,-1505,-843,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0x26ca065be4fb06bc,Link,C-6,-2545,-1237,-722,33%,Knight's Broadsword,Soldier's Broadsword,Gerudo Scimitar,-,-
+0x1068e16b22181754,Link,C-6,-2552,-1949,-620,33%,Knight's Broadsword,Soldier's Broadsword,Gerudo Scimitar,-,-
+0x23940ae704270ce9,Link,C-7,-3002,-2053,-565,33%,Knight's Claymore,Soldier's Claymore,Gerudo Claymore,-,-
+0x70a81226cee13314,Link,C-7,-2654,-2368,-504,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x35f47cefa589eec0,Link,C-7,-2505,-2702,-561,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x76e04a67601abb08,Link,C-7,-2557,-2861,-491,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x67512a22a3775564,Link,C-7,-2423,-2095,-595,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xbc36b02fbddf40f1,Link,C-7,-2038,-2354,-589,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x159ec4e7fb1bd2ce,Link,C-7,-2348,-2819,-642,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x5a96195694347fc3,Link,C-7,-2732,-2569,-564,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x65b2209f15e917bf,Link,C-7,-2361,-2185,-595,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x0c0d473135f2b1cb,Link,C-7,-2172,-2170,-593,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0xf6e2987875d596bd,Link,C-7,-2298,-2987,-485,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x810ab145bccb0de7,Link,C-8,-2910,-3503,-450,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x9b1b2df07947dfae,Link,C-8,-2887,-3815,-458,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xad242e8cb5985530,Link,C-8,-2694,-3703,-455,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x8542f0b1e7cd5c78,Link,C-8,-2668,-3900,-456,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xa23fdd46b458d738,Link,C-8,-2205,-3559,-473,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x08f0df8959dade90,Link,C-8,-2890,-3048,-467,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x8e09901d70a55f49,Link,C-8,-2013,-3737,-585,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x1e06f86a5697a7a3,Link,C-8,-2212,-3825,-464,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x9ed836b4d0541776,Link,C-8,-2888,-3146,-443,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x6e050c3fa287a75d,Link,C-8,-2170,-3258,-490,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x176f57b6aa96f80b,Link,C-8,-2369,-3817,-455,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x2146cd44815d14fd,Link,D-1,-1578,3325,-682,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0xda7e93729b8f79b4,Link,D-1,-1218,3079,-812,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x20b5df568c0b34ca,Link,D-1,-1541,3524,-675,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0xea9e3dc9e20acca6,Link,D-1,-1983,3083,-766,33%,Royal Broadsword,Knight's Broadsword,Feathered Edge,-,-
+0x863ac11c67a8678e,Link,D-1,-1119,3230,-781,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0x28e4e2ac71c25809,Link,D-2,-1503,2428,-682,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x837ea7fe909b9962,Link,D-2,-1469,2196,-344,33%,Knight's Claymore,Soldier's Claymore,Giant Boomerang,-,-
+0xb61a45036102d544,Link,D-2,-1413,2560,-676,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x514cfe05c3e37c5f,Link,D-2,-1385,2287,-342,33%,Knight's Claymore,Soldier's Claymore,Giant Boomerang,-,-
+0x63882aa557697e95,Link,D-2,-1068,2258,-551,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x74f118d75e42d3c2,Link,D-2,-1971,2770,-680,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0xc907d84e8c18e9fd,Link,D-2,-1563,2955,-690,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0x651f0d8b19b7e105,Link,D-2,-1624,2339,-682,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0x23a3ba2dbcf6fdc5,Link,D-2,-1219,2233,-546,33%,Knight's Broadsword,Soldier's Broadsword,Forest Dweller's Sword,-,-
+0x0e4718a9b20afa93,Link,D-2,-1157,1976,-544,33%,Knight's Halberd,Soldier's Spear,Forest Dweller's Spear,-,-
+0xa871a252ba5e43bb,Link,D-3,-1788,1963,-345,33%,Knight's Claymore,Soldier's Claymore,Giant Boomerang,-,-
+0x3404eda6fe8ec2b7,Link,D-3,-1785,1761,-547,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0x17018f921c888023,Link,D-3,-1665,1445,-572,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0xab2597f62e09c017,Link,D-3,-1431,1189,-580,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0x2fd6e20ec222b213,Link,D-3,-1885,1997,-434,33%,Knight's Broadsword,Soldier's Broadsword,Feathered Edge,-,-
+0x2aa844d72e3e225c,Link,D-3,-1948,1522,-547,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0xc68d274b35d17236,Link,D-3,-1783,1567,-551,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x0ce44ae6023e7a6d,Link,D-3,-1974,1440,-649,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0xddc76eac44221ad0,Link,D-3,-1462,1816,-544,33%,Knight's Broadsword,Soldier's Broadsword,Forest Dweller's Sword,-,-
+0x295b672c0b72d2b4,Link,D-3,-1668,1617,-537,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x1395e41fae4b7333,Link,D-3,-1670,1613,-537,33%,Knight's Claymore,Soldier's Claymore,Giant Boomerang,-,-
+0x9bdaffc52526cc5d,Link,D-3,-1666,1613,-537,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0xe3fb1a061a6b135a,Link,D-4,-1274,556,-474,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0xf2d592d3b9f94bcc,Link,D-4,-1365,292,-517,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0x06b30980cb9fc50c,Link,D-4,-1832,277,-551,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0xe3398ad4521e9bf1,Link,D-4,-1438,559,-472,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x0ab8617b487a6776,Link,D-4,-1469,419,-524,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x4315fec6e85d7b5e,Link,D-4,-1015,351,-480,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x8542923af606616e,Link,D-5,-1742,-939,-559,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x699e6a24e7aa0660,Link,D-5,-1324,-54,-469,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x9f08e444b4209c03,Link,D-5,-1189,-305,-480,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xe61593d81284b584,Link,D-5,-1949,-991,-553,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0xf1e150600a67fdb9,Link,D-6,-2000,-1705,-563,33%,Knight's Claymore,Soldier's Claymore,Gerudo Claymore,-,-
+0x1bebb891a0dd9b3b,Link,D-6,-1142,-1109,-489,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xe9996eff7bbeb509,Link,D-6,-1458,-1914,-601,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0xa0136269cc89c9b3,Link,D-7,-1671,-2143,-431,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xd6ea043edb750346,Link,D-7,-1595,-2432,-446,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x0498cf79ced226ce,Link,D-7,-1772,-2885,-633,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x560f8425fdba9b3f,Link,D-7,-1390,-2821,-620,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xabf125d9f915adb2,Link,D-7,-1624,-2582,-589,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x5ec88acc05027b7a,Link,D-7,-1878,-2824,-557,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0xf68890ef1a813cf8,Link,D-7,-1819,-2216,-467,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0xf64da9ad882f1ccc,Link,D-7,-1275,-2142,-664,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0xfcda9686cb779323,Link,D-7,-1402,-2393,-547,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0xc779a923910e93b6,Link,D-7,-1456,-2665,-584,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0xd82bc27a79d07016,Link,D-7,-1060,-2944,-512,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x97d0aa8cf3437ee1,Link,D-8,-1687,-3402,-522,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xe60a30ab9a7231b9,Link,D-8,-1923,-3826,-596,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x9bab795ae8ec4a03,Link,D-8,-1432,-3300,-857,100%,Traveler's Claymore,-,-,-,-
+0xc9c4e8e5413ecf6f,Link,D-8,-1371,-3719,-828,100%,Traveler's Claymore,-,-,-,-
+0x29369da4e46cd8c2,Link,D-8,-1161,-3369,-764,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xc0bdea533ed612fb,Link,D-8,-1727,-3022,-710,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0xa67ca5a72eeb570d,Link,D-8,-1896,-3547,-529,33%,Soldier's Spear,Traveler's Spear,Gerudo Spear,-,-
+0x6a5f3741aa63b4b2,Link,D-8,-1464,-3186,-835,100%,Traveler's Sword,-,-,-,-
+0xbf686a2fe673f3ec,Link,D-8,-1474,-3827,-709,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0xdf41701983bc960c,Link,D-8,-1117,-3859,-610,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x3bfab7fb50b91882,Link,D-8,-1225,-3661,-826,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x288329d7d8a30006,Link,E-1,-901,3359,-666,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x93776f347b9e34e5,Link,E-1,-687,3491,-675,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x3f6d6c06457e5ccb,Link,E-1,-24,3169,-591,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0xcb0818e090ca477e,Link,E-1,-258,3184,-533,33%,Knight's Halberd,Soldier's Spear,Forest Dweller's Spear,-,-
+0x50a21df6682b1349,Link,E-1,-455,3036,-550,33%,Knight's Broadsword,Soldier's Broadsword,Forest Dweller's Sword,-,-
+0x6321751add89ce04,Link,E-2,-1008,2026,-558,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0xf4c08bf5a4e0f594,Link,E-2,-796,2755,-625,33%,Knight's Halberd,Soldier's Spear,Forest Dweller's Spear,-,-
+0x2753597510dbb284,Link,E-2,-549,2269,-697,33%,Knight's Halberd,Soldier's Spear,Forest Dweller's Spear,-,-
+0x93b0e56af5d7f03f,Link,E-2,-883,2275,-589,33%,Knight's Broadsword,Soldier's Broadsword,Forest Dweller's Sword,-,-
+0xf7338e83b6d4e76d,Link,E-2,-260,2728,-626,33%,Knight's Broadsword,Soldier's Broadsword,Forest Dweller's Sword,-,-
+0x65b416040f93ba3a,Link,E-3,-708,1578,-560,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0x7fee469b5cb58f10,Link,E-3,-74,1996,-614,33%,Knight's Halberd,Soldier's Spear,Forest Dweller's Spear,-,-
+0x7217b05d4316aeff,Link,E-3,-737,1068,-488,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x662a7c7a621bc3d0,Link,E-3,-497,1953,-598,33%,Knight's Broadsword,Soldier's Broadsword,Forest Dweller's Sword,-,-
+0xe99793aa879913c9,Link,E-3,-315,1535,-585,33%,Knight's Broadsword,Soldier's Broadsword,Forest Dweller's Sword,-,-
+0x971cd470964a6929,Link,E-3,-132,1472,-559,33%,Knight's Broadsword,Soldier's Broadsword,Forest Dweller's Sword,-,-
+0xd03a51f88bfe2ec7,Link,E-4,-224,225,-465,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x7be4c99fa6fb2915,Link,E-4,-5,37,-462,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x24a7b6b358d8ecb0,Link,E-4,-860,281,-462,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x236cd8a30dbf886e,Link,E-4,-240,362,-446,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x01e85789c78c7c8f,Link,E-4,-242,358,-446,50%,Traveler's Claymore,Soldier's Claymore,-,-,-
+0xe1a522c7ef1de222,Link,E-4,-237,358,-446,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x4089a035887e4809,Link,E-4,-277,253,-470,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x9451e6ef46c094cb,Link,E-4,-399,370,-470,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x920db6b47d1311a6,Link,E-4,-405,435,-470,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xb18fde6153d44c62,Link,E-4,-665,837,-456,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0xa351dbe1e56725a6,Link,E-4,-685,908,-457,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x4a5857b91c9b1e15,Link,E-4,-361,400,-467,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xa7e8325a72d7ecbb,Link,E-4,-233,277,-470,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0xb18816829a3f8dc5,Link,E-5,-897,-81,-506,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xa3d7b0c5929a7b94,Link,E-5,-857,-687,-462,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xe8e00c8846b6065d,Link,E-5,-868,-887,-466,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x58a501fdf8e762b4,Link,E-5,-549,-916,-476,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xd21c36a5c3ab95be,Link,E-5,-245,-64,-462,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xc5e547957489c25f,Link,E-5,-65,-45,-462,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x5d0f669200a9fd2c,Link,E-5,-196,-650,-466,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x43742f0f11beac58,Link,E-5,-895,-278,-472,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x51369cfb45c3454d,Link,E-5,-748,-101,-494,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0xdfcd0c1b4286e9e8,Link,E-5,-504,-192,-475,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x2e119b0fa8ee6ea8,Link,E-5,-316,-672,-467,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0xaa3b765d3f8f2d11,Link,E-5,-792,-857,-470,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0xc263c97bedff8c2b,Link,E-5,-609,-614,-467,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x711d734adec8efb0,Link,E-5,-604,-565,-465,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x8846bc19604611c5,Link,E-6,-752,-1634,-508,50%,Traveler's Claymore,Soldier's Claymore,-,-,-
+0xdd8896045523b1dc,Link,E-6,-543,-1756,-508,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xfc4b396d6689170a,Link,E-6,-127,-1395,-452,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x596de99ec445cd86,Link,E-6,-196,-2004,-459,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x7fb5c270a1631a84,Link,E-6,-735,-1371,-469,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x5f38008749173f96,Link,E-6,-263,-1075,-470,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x0968008103d0d366,Link,E-6,-405,-1351,-469,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x57697eb34195f100,Link,E-6,-289,-1487,-465,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0xab31f46db3f880e9,Link,E-6,-87,-1999,-493,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x559e9a8058789760,Link,E-6,-579,-1494,-445,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0xab1de9b6f36d1687,Link,E-6,-582,-1498,-445,50%,Traveler's Claymore,Soldier's Claymore,-,-,-
+0x1499c3a2fd5d15e9,Link,E-6,-577,-1498,-445,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xb49752c7973119c0,Link,E-6,-427,-1310,-470,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x76f00559c6aa89ed,Link,E-6,-238,-1701,-451,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x988ffbdc6925f765,Link,E-6,-268,-1660,-451,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xcc00d5fe2a8fd01a,Link,E-7,-679,-2307,-475,50%,Traveler's Claymore,Soldier's Claymore,-,-,-
+0x7225610d7dc61542,Link,E-7,-642,-2937,-523,50%,Traveler's Claymore,Soldier's Claymore,-,-,-
+0x7a8a5f125e7dcbe8,Link,E-7,-947,-2650,-614,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x2329499a3f9764e2,Link,E-7,-377,-2123,-462,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x76834fe1426d6758,Link,E-7,-240,-2044,-464,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0xeb1d238bc55d71f4,Link,E-7,-158,-2975,-519,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0xa954bbc67975ba14,Link,E-7,-479,-1953,-514,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xaa5518c67d51cfef,Link,E-7,-507,-2003,-514,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0xecd535d80c01e15b,Link,E-7,-543,-1963,-513,50%,Traveler's Claymore,Soldier's Claymore,-,-,-
+0x9b6a2940249e0ccf,Link,E-8,-871,-3123,-528,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0x38da0d6f5c4e5a2e,Link,E-8,-806,-3716,-512,33%,Soldier's Claymore,Traveler's Claymore,Gerudo Claymore,-,-
+0xf4cf356155c3bac7,Link,E-8,-534,-3624,-536,50%,Traveler's Claymore,Soldier's Claymore,-,-,-
+0xa3a2d0d1fd814283,Link,E-8,-269,-3450,-469,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x3a55734c75e48448,Link,E-8,-85,-3159,-479,50%,Traveler's Claymore,Soldier's Claymore,-,-,-
+0x1704a4c05fad8f4b,Link,E-8,-82,-3599,-450,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x08fb7a566d2287ce,Link,E-8,-626,-3166,-570,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xfb184b7b3e04056a,Link,E-8,-497,-3265,-472,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xdb7e6f366a213da4,Link,E-8,-450,-3746,-519,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x92628a88e8a49cf8,Link,E-8,-816,-3472,-527,33%,Soldier's Broadsword,Traveler's Sword,Gerudo Scimitar,-,-
+0x191bdb026fb3198c,Link,E-8,-382,-3657,-489,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0x971a0fb612fcd57d,Link,F-1,125,3620,-511,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x3110bc159125fa48,Link,F-1,222,3523,-539,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xd61bb024cd6cd8e7,Link,F-1,590,3038,-624,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x6090004d74075242,Link,F-1,868,3188,-672,33%,Knight's Halberd,Soldier's Spear,Forest Dweller's Spear,-,-
+0x70aac916ced73c3b,Link,F-1,111,3559,-516,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x0531f2af3e65d0ac,Link,F-1,785,3500,-611,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x2babf002c2384e19,Link,F-2,452,2862,-637,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0xa5e085260b6cac3d,Link,F-2,378,2629,-614,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x438f86ac57595a47,Link,F-2,4,2356,-612,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x49340e67954d3cc9,Link,F-2,3,2198,-614,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x20ab815db0cc1d04,Link,F-2,272,2217,-613,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x77362fa0d4caed0f,Link,F-2,579,2436,-615,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x47ab7b47779570f8,Link,F-2,657,2873,-649,33%,Knight's Halberd,Soldier's Spear,Forest Dweller's Spear,-,-
+0x9a52472fd628ec4e,Link,F-2,587,2081,-619,33%,Knight's Halberd,Soldier's Spear,Forest Dweller's Spear,-,-
+0x18185f8cc0d2bcb4,Link,F-2,939,2836,-690,33%,Knight's Broadsword,Soldier's Broadsword,Forest Dweller's Sword,-,-
+0x11b306e891d28b73,Link,F-3,415,1227,-462,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0x0e17745937dcab1c,Link,F-3,597,2003,-620,33%,Knight's Halberd,Soldier's Spear,Forest Dweller's Spear,-,-
+0x5b520f0ccb162a50,Link,F-3,801,1825,-616,33%,Knight's Halberd,Soldier's Spear,Forest Dweller's Spear,-,-
+0xe355e718f36658f2,Link,F-3,348,1781,-613,33%,Knight's Broadsword,Soldier's Broadsword,Forest Dweller's Sword,-,-
+0x518b658092b0b484,Link,F-3,843,1048,-465,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0x266ad0af133128a8,Link,F-3,715,1243,-458,33%,Knight's Broadsword,Soldier's Broadsword,Forest Dweller's Sword,-,-
+0x7ece3771cccbb545,Link,F-3,713,1239,-458,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0xe8b91afb099fcce1,Link,F-3,717,1239,-458,33%,Knight's Halberd,Soldier's Spear,Forest Dweller's Spear,-,-
+0xb2e293e8b2ce8dab,Link,F-4,85,692,-470,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x7d2e8a2a318e0f90,Link,F-4,405,686,-455,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0x719ac9b3205644b7,Link,F-4,215,390,-471,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xfcbba511d43d02ce,Link,F-4,344,222,-472,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x6ff84df8f0340c6d,Link,F-4,782,505,-489,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0xa205ea4a8f4571b4,Link,F-4,952,529,-535,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0x826325a329b2e3a9,Link,F-4,125,607,-470,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x3e73e50cf0d14f12,Link,F-4,75,565,-471,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x245a475f782cf4f2,Link,F-4,-8,405,-471,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0xe8cef7a518b1831d,Link,F-4,1,357,-474,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x4819e81e0ede3516,Link,F-4,-41,364,-473,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x734917f2f2f7a5e2,Link,F-5,972,-799,-481,20%,Royal Claymore,Knight's Claymore,Soldier's Claymore,Giant Boomerang,Royal Guard's Claymore
+0xed47489a59b1e817,Link,F-5,499,-106,-468,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xcc7479abb6ddbbf4,Link,F-5,420,-413,-507,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x755c748adcec8517,Link,F-5,392,-914,-470,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x76c513f235c963ef,Link,F-5,554,-200,-469,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x3bab32a41ae45993,Link,F-5,643,-856,-461,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xcd450910996daceb,Link,F-5,58,-234,-464,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x7d68cdf25add7a43,Link,F-5,-71,-211,-467,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0xd32f02c9a4cba6a3,Link,F-5,-65,-152,-466,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xd76848e1bf7069e9,Link,F-5,81,-280,-465,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x3f777386887e15f8,Link,F-6,349,-1449,-456,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0xc5c312516c92b265,Link,F-6,563,-1406,-465,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x11b0725e372786ac,Link,F-6,809,-1066,-456,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x825d182ddcce6c7f,Link,F-6,617,-1759,-453,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x4e70af02d75c4dd1,Link,F-6,536,-1905,-517,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xd2dd55abe5380df6,Link,F-6,285,-1143,-458,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x5b97e1b1a8266a3d,Link,F-6,473,-1252,-454,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0x1d77019115b36a8f,Link,F-6,902,-1183,-458,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0xfb06eb14a6d7b667,Link,F-6,919,-1362,-455,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0xc24b87fcd48fd759,Link,F-6,689,-1605,-469,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0x704b354e65011456,Link,F-6,204,-1374,-457,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x9625add6bcfa5738,Link,F-6,259,-1747,-484,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x873a77f239bcf79c,Link,F-6,756,-1865,-438,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0xf982d34b942e755f,Link,F-6,754,-1869,-438,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x497aff905fc0f5fc,Link,F-6,759,-1869,-438,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0xd4fd51631db43f87,Link,F-6,7,-1595,-454,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x8f7584087c8f9590,Link,F-6,23,-1545,-456,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x1ebfec9a45519769,Link,F-6,379,-1612,-455,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x7ce99a39140e3802,Link,F-6,434,-1621,-454,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xc04bf6201d87e02d,Link,F-6,968,-1869,-455,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0xa7890c65472b9a33,Link,F-7,43,-2730,-482,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x12db4d389df89ba3,Link,F-7,585,-2345,-520,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x3b1a9676f48c7d0a,Link,F-7,1000,-2443,-488,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x89e6c5ad52603144,Link,F-7,730,-2734,-455,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x0a0ca1d720c7d281,Link,F-7,342,-2361,-467,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x07ca969ae993156c,Link,F-7,953,-2691,-472,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x20f5907e61970f70,Link,F-8,295,-2998,-455,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x1160922154d19edb,Link,F-8,565,-3318,-490,33%,Knight's Claymore,Soldier's Claymore,Giant Boomerang,-,-
+0x43718bb362f14af3,Link,F-8,75,-3042,-503,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0x0b8d67793959e76e,Link,F-8,131,-3845,-446,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0xddb18ff0e9ad6216,Link,F-8,626,-3537,-489,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0x9e81d07f2250008a,Link,F-8,513,-3152,-479,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0xd515268a9a48c903,Link,F-8,684,-3052,-451,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x1846d401444fcd27,Link,G-1,1156,3641,-566,33%,Soldier's Claymore,Traveler's Claymore,Cobble Crusher,-,-
+0x6e15fcd410fe55a7,Link,G-1,1202,3296,-792,33%,Soldier's Claymore,Traveler's Claymore,Cobble Crusher,-,-
+0x22350769045e87d6,Link,G-1,1387,3822,-544,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0xd1f8b487eb87cb3a,Link,G-1,1107,3005,-770,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0xd476ea95990233df,Link,G-1,1508,3234,-834,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x4a1832ebde56d922,Link,G-1,1927,3033,-826,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x41705129f809a1c6,Link,G-2,1472,2598,-823,33%,Soldier's Claymore,Traveler's Claymore,Cobble Crusher,-,-
+0xbab95805a483a010,Link,G-2,1634,2873,-837,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0xa9793f568ca476fe,Link,G-2,1563,2173,-775,33%,Soldier's Claymore,Traveler's Claymore,Cobble Crusher,-,-
+0x8a86312d0c0d8d51,Link,G-2,1595,2006,-759,33%,Soldier's Claymore,Traveler's Claymore,Cobble Crusher,-,-
+0xa32c1b00734f374b,Link,G-2,1761,2259,-910,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x137cc0d5e18cd2fc,Link,G-2,1356,2307,-844,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0xe128c05d1612a2cd,Link,G-2,1073,2088,-700,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x2b0630d62b59db4e,Link,G-2,1885,2766,-831,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x4be62ddea45d6781,Link,G-2,1918,2123,-893,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x94c1618220c29bb5,Link,G-3,1128,1437,-583,50%,Knight's Claymore,Soldier's Claymore,-,-,-
+0xf1106133fb769db6,Link,G-3,1382,1742,-733,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0xa701eb34b7edb727,Link,G-3,1286,1219,-553,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0xfa13802d70e52a0d,Link,G-3,1602,1651,-726,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0xc149a7dcdd69d7d6,Link,G-3,1656,1490,-714,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x605e642b00745266,Link,G-3,1494,1502,-748,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0xc3f0b18071246d38,Link,G-3,1721,1919,-758,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x571a34a2d752ad10,Link,G-3,1788,1754,-726,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x63bee9463be8c954,Link,G-4,1034,931,-467,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0xee7b94407f0a2dd4,Link,G-4,1431,933,-466,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0xc6672bb436fe0626,Link,G-4,1345,818,-465,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0xaf26eb036d058a70,Link,G-4,1430,262,-454,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0x4831038389392ce4,Link,G-4,1698,652,-456,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0xd72a63daf0c941fa,Link,G-4,1303,260,-514,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0xf7b9c4f9402f1364,Link,G-4,1819,639,-514,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0x2ff4e12148e61648,Link,G-5,1165,-272,-453,20%,Royal Halberd,Knight's Halberd,Throwing Spear,Soldier's Spear,Royal Guard's Spear
+0xa6a4c79ef8a4c0ba,Link,G-5,1895,-48,-450,33%,Soldier's Spear,Traveler's Spear,Zora Spear,-,-
+0x68ce21ef9de075ae,Link,G-5,1198,-400,-454,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0x0bcb35d6669c8e7c,Link,G-5,1417,-815,-549,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0xe057f43252d48010,Link,G-5,1717,-39,-453,33%,Soldier's Claymore,Traveler's Claymore,Zora Longsword,-,-
+0x1bba27fcd16ef40d,Link,G-5,985,-592,-474,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
+0x6b1a52ee125b356f,Link,G-6,1057,-1492,-471,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x55d1eef87913776b,Link,G-6,1265,-1103,-552,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0xc844ef82126a1154,Link,G-6,1885,-1415,-480,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0xc64a5539da35f221,Link,G-6,1686,-1589,-463,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0x12319fc0eca8ed7c,Link,G-6,1843,-1970,-459,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0xa9d1e0ec9ea10ab4,Link,G-6,1379,-1169,-597,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x16006c3a4e39e175,Link,G-6,1250,-1342,-600,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x76feb87b8d5a0015,Link,G-6,1889,-1771,-461,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0x22cf61d719c878bd,Link,G-6,1939,-1718,-465,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x67afb34c6f591df5,Link,G-6,1794,-1998,-458,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x131d1b5d8bcf435f,Link,G-6,1983,-1755,-462,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x4a02084e5ef211de,Link,G-7,1289,-2075,-727,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xa5be57b56f121d74,Link,G-7,1679,-2739,-714,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xbf0fedc22f8ba5d9,Link,G-7,1829,-2574,-672,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xf9067380571b2357,Link,G-7,1660,-2130,-454,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0xee04a9a94ff9b05e,Link,G-7,1905,-2165,-460,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0xebcbf69f597c7eb4,Link,G-7,1546,-2718,-606,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x4bfcbd138901a6ca,Link,G-7,1739,-2900,-679,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x366ea953bbbc1d44,Link,G-7,1775,-2656,-708,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0xe719039c12eade91,Link,G-7,1484,-2472,-629,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x2f1176af2a974155,Link,G-7,1320,-2539,-525,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x43a0ac86b735eae9,Link,G-7,1463,-2893,-559,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x9cebe96bf154c7a3,Link,G-8,1107,-3148,-469,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xb15255dfc24b73fb,Link,G-8,1236,-3495,-547,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x28c4fda20e58627f,Link,G-8,1651,-3817,-526,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0xc8d55795818a0cc1,Link,G-8,1324,-3305,-530,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x25fa2031d7c7de7a,Link,G-8,1550,-3689,-584,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x2909db404a0f56a4,Link,G-8,1117,-2979,-478,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x186a2dd8b3628a46,Link,G-8,1110,-3389,-466,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x85955d2a48613b26,Link,G-8,1898,-3179,-577,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0xfefcbdafa47e2d0b,Link,G-8,1936,-3455,-458,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x15f5be247844eccb,Link,G-8,1998,-3647,-454,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x4462b5692edd89ed,Link,H-1,2345,3216,-828,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x7bed852f94ce0ce8,Link,H-1,2654,3387,-678,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x5553d82fe737104c,Link,H-1,2565,3012,-954,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x232d26684fbf20d2,Link,H-1,2437,3387,-832,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x66ea680e22a71af1,Link,H-1,2696,3686,-692,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x61f152f791ff9c18,Link,H-2,2272,2896,-956,33%,Soldier's Claymore,Traveler's Claymore,Cobble Crusher,-,-
+0x3cee1fb08e5c3610,Link,H-2,2430,2208,-952,33%,Soldier's Claymore,Traveler's Claymore,Cobble Crusher,-,-
+0x82257c9d83c28c18,Link,H-2,2808,2807,-952,33%,Soldier's Claymore,Traveler's Claymore,Cobble Crusher,-,-
+0x60b299e61862a8c9,Link,H-2,2698,2265,-952,33%,Soldier's Claymore,Traveler's Claymore,Cobble Crusher,-,-
+0x538f391332961112,Link,H-2,2216,2284,-952,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x27c196d714c56a9c,Link,H-2,2339,2959,-951,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0xfdc8e8be61840f65,Link,H-3,2929,1495,-724,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0xe43cccfb3d67cb34,Link,H-4,2468,645,-503,33%,Soldier's Claymore,Traveler's Claymore,Cobble Crusher,-,-
+0xff93893b1d3c7c0a,Link,H-4,2105,860,-557,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x64abe91322fda6f7,Link,H-4,1999,260,-465,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x4aa6cbd344bdc697,Link,H-4,2983,798,-800,50%,Traveler's Spear,Zora Spear,-,-,-
+0xbc7e175ac570abfa,Link,H-4,2103,705,-478,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0xc8b50f8524d5595c,Link,H-4,2225,422,-506,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0x5daff463bb71e43f,Link,H-4,2675,1070,-597,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0xee5174c7cc886008,Link,H-4,2612,549,-651,50%,Traveler's Sword,Zora Sword,-,-,-
+0x0ae304083d48092b,Link,H-4,2920,559,-788,50%,Traveler's Spear,Zora Spear,-,-,-
+0x54c778f7801cbaa4,Link,H-5,2017,-152,-456,33%,Soldier's Claymore,Traveler's Claymore,Zora Longsword,-,-
+0x2a80e6aea031bbf8,Link,H-5,2727,-679,-593,33%,Soldier's Claymore,Traveler's Claymore,Zora Longsword,-,-
+0xeaff919db463a4dd,Link,H-5,2758,-939,-680,33%,Soldier's Claymore,Traveler's Claymore,Zora Longsword,-,-
+0xf27dcdae5a66b260,Link,H-5,2364,-664,-562,33%,Soldier's Spear,Traveler's Spear,Zora Spear,-,-
+0x92db273ae37cdc7d,Link,H-5,2859,-604,-543,33%,Soldier's Spear,Traveler's Spear,Zora Spear,-,-
+0x4bbcd4f8b7770ae1,Link,H-5,2294,-987,-687,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x8fef3168f83d076c,Link,H-5,2803,-233,-564,50%,Traveler's Sword,Zora Sword,-,-,-
+0x6dcffc4dfe1e2f5e,Link,H-5,2504,-812,-644,33%,Soldier's Broadsword,Traveler's Sword,Zora Sword,-,-
+0x6a1fb495ce0428e0,Link,H-5,2230,-666,-589,33%,Soldier's Claymore,Traveler's Claymore,Zora Longsword,-,-
+0x16720d45c9aa5b41,Link,H-6,2281,-1125,-667,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x27b2f8ec51bf19ed,Link,H-6,2100,-1874,-459,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x4252ef690bcd8ed9,Link,H-6,2634,-1486,-628,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0xe322047720fc0118,Link,H-6,2530,-1687,-456,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0xb2aa3277cbe04d14,Link,H-6,2185,-1135,-670,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x66cd1cc41ed1cca7,Link,H-6,2351,-1992,-541,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0x7bff20d4a59a8c81,Link,H-6,2525,-1760,-542,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0xdd791a192768dc05,Link,H-6,2635,-1854,-461,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0xe4b71e483de68b8e,Link,H-6,2896,-1613,-613,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0x77251fd623f6c0aa,Link,H-6,2908,-1841,-504,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0xd33009c05c56d32d,Link,H-6,2380,-1560,-541,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0xdf45fa1f922f7abf,Link,H-6,2794,-1377,-700,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x15cba08653d558e9,Link,H-6,2319,-1808,-438,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0xfb72e164e527d5c4,Link,H-6,2317,-1811,-438,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x6bca0aece8431d60,Link,H-6,2322,-1811,-438,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0x12e2eeb54740d002,Link,H-6,2032,-1755,-462,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x2947487baebfbd9b,Link,H-6,2074,-1735,-462,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0xf1fd9e94b39841f5,Link,H-6,2337,-1858,-455,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x4331623dc1e19bb7,Link,H-6,2296,-1779,-455,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0x13ccc5537b8a2a51,Link,H-6,2305,-1750,-456,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x391e8749e41dbad0,Link,H-7,2313,-2708,-651,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0xeeb53edba667a55c,Link,H-7,2165,-2949,-633,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x67ef667917afaad4,Link,H-7,2840,-2118,-456,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x2b657664a92883e6,Link,H-7,2867,-2305,-528,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x77c8e4cb1cd882d5,Link,H-7,2718,-2898,-611,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0xc4693005738fd1ad,Link,H-7,2781,-2294,-534,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0xc5791ae1818c3268,Link,H-7,2775,-2565,-655,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0x2784b6809166d762,Link,H-7,2357,-2101,-526,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0xc3a5cd030c53ef16,Link,H-7,2643,-2175,-564,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x7f7ffdfeea714bb1,Link,H-7,2666,-2346,-556,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0xe91feb523cf58c1d,Link,H-8,2135,-3187,-619,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xa160c35b21dc8440,Link,H-8,2589,-3160,-529,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x228cdffa6b5757f5,Link,H-8,2449,-3851,-495,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0xb094257f8b9de466,Link,H-8,2709,-3634,-581,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0xfe92b248f9288266,Link,H-8,2404,-3295,-487,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0xca1185d95d52fd5e,Link,H-8,2220,-3810,-444,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0xd1611beaba688ddb,Link,H-8,2828,-3013,-575,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0x0cde450be4231a97,Link,H-8,2989,-3214,-624,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0x1872136ecda6ee02,Link,H-8,2338,-3094,-636,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x6eb50f4f5efc1f97,Link,H-8,2040,-3782,-445,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x4df67010cffaa2d7,Link,H-8,2533,-3315,-517,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x7e0090ecb2b7af6b,Link,H-8,2847,-3544,-444,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0xbef023cb676d52db,Link,H-8,2855,-3729,-444,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x97023801a33d2edc,Link,I-1,3305,3195,-454,50%,Traveler's Claymore,Soldier's Claymore,-,-,-
+0x9f53f0bc5439610d,Link,I-1,3500,3557,-644,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x7ac59840a6f2c54b,Link,I-1,3436,3262,-468,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0xd153c5e582a0cbf1,Link,I-1,3567,3035,-462,33%,Traveler's Spear,Throwing Spear,Soldier's Spear,-,-
+0x8a1150a2454d59cc,Link,I-1,3178,3218,-459,50%,Traveler's Sword,Soldier's Broadsword,-,-,-
+0x459ccef055186fd4,Link,I-1,3714,3402,-620,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0x8280f0e485a601e4,Link,I-2,3268,2851,-727,33%,Soldier's Claymore,Traveler's Claymore,Cobble Crusher,-,-
+0x47af07486829b46d,Link,I-2,3340,2554,-645,33%,Soldier's Claymore,Traveler's Claymore,Cobble Crusher,-,-
+0x3da5d031a5c0f0a8,Link,I-2,3762,2788,-493,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xe7cdbd798ba6c829,Link,I-2,3559,2697,-603,33%,Soldier's Claymore,Traveler's Claymore,Cobble Crusher,-,-
+0x057cfc186cb4618e,Link,I-2,3603,2082,-599,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x675b0dea416e4626,Link,I-2,4008,2439,-514,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x4f52029b56552a32,Link,I-2,3496,2528,-487,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x4edbb67c5e7b2cf6,Link,I-2,3411,2172,-565,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0xb72cc2f5c8b039d1,Link,I-2,3462,2453,-544,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0x41aca4d51e1eb279,Link,I-2,3860,2378,-511,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0x71a5d3620a529bd2,Link,I-3,3141,1926,-584,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xd624b73d9c380ed3,Link,I-3,3025,1220,-633,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x947214c4d8645891,Link,I-3,3920,1237,-686,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xc225ae62134fa6e1,Link,I-3,3034,1658,-679,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0xea95ab83f2fcdf17,Link,I-3,3183,1396,-662,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x8c4a211ea707ee32,Link,I-3,3555,1899,-532,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x363086e854016c07,Link,I-3,3848,1851,-533,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0xe5565a23aabfe53f,Link,I-3,3318,1059,-840,50%,Traveler's Sword,Zora Sword,-,-,-
+0xab48c8b1b5eb9d46,Link,I-3,3052,1374,-705,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0x8d2c479a5bfa0f77,Link,I-3,3049,1370,-704,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xf94972dda2e1d2d1,Link,I-3,3054,1370,-705,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x156b0d1bb18d22e6,Link,I-3,3305,1358,-656,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xa9f6b5b7dca1fbd5,Link,I-3,3112,1665,-640,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0x8ff46c245241dae3,Link,I-3,3231,1377,-659,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0x7803fe2e66ca4017,Link,I-3,3204,1352,-656,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x109258e8cae4291e,Link,I-3,3313,1323,-656,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x3057306b5d9c1e28,Link,I-3,3745,1764,-532,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x97a128845e568a2c,Link,I-4,3257,698,-634,50%,Traveler's Claymore,Zora Longsword,-,-,-
+0xc02fb2372b8417a2,Link,I-4,3927,923,-686,50%,Traveler's Claymore,Zora Longsword,-,-,-
+0x850307ff1639bb71,Link,I-4,3108,497,-614,50%,Traveler's Spear,Zora Spear,-,-,-
+0x2bebdaa7d411aea9,Link,I-4,3799,946,-685,50%,Traveler's Spear,Zora Spear,-,-,-
+0xa15408526e37b892,Link,I-4,3864,354,-707,50%,Traveler's Spear,Zora Spear,-,-,-
+0xe650fe8a05043027,Link,I-4,3464,266,-685,50%,Traveler's Sword,Zora Sword,-,-,-
+0x4ea7cfb26dcd6a54,Link,I-4,3982,602,-872,50%,Traveler's Sword,Zora Sword,-,-,-
+0x53e01203ab0f9933,Link,I-4,3991,113,-686,50%,Traveler's Sword,Zora Sword,-,-,-
+0xe94f65b26a9fd29b,Link,I-5,3336,-493,-456,33%,Soldier's Claymore,Traveler's Claymore,Zora Longsword,-,-
+0xda176ec118bb2d75,Link,I-5,3070,-536,-484,33%,Soldier's Claymore,Traveler's Claymore,Zora Longsword,-,-
+0xe56c21e697912356,Link,I-5,3739,-265,-657,50%,Traveler's Claymore,Zora Longsword,-,-,-
+0xae05b3584e43446a,Link,I-5,3967,-56,-729,50%,Traveler's Claymore,Zora Longsword,-,-,-
+0xecbce59e5acbfa99,Link,I-5,3442,-424,-493,33%,Soldier's Spear,Traveler's Spear,Zora Spear,-,-
+0x2eae43f7e1ed6769,Link,I-5,3222,-554,-462,33%,Soldier's Spear,Traveler's Spear,Zora Spear,-,-
+0xace34d2ba80360ce,Link,I-5,3348,-633,-457,33%,Soldier's Spear,Traveler's Spear,Zora Spear,-,-
+0xd12aee19add6f3a8,Link,I-5,3345,-380,-455,33%,Soldier's Broadsword,Traveler's Sword,Zora Sword,-,-
+0x57171bd7f6bb1722,Link,I-5,3083,-973,-520,33%,Soldier's Broadsword,Traveler's Sword,Zora Sword,-,-
+0x742ed78d2a6f7350,Link,I-5,3933,-254,-573,50%,Traveler's Sword,Zora Sword,-,-,-
+0xde63483c4f66bf0f,Link,I-5,3838,-717,-471,33%,Soldier's Broadsword,Traveler's Sword,Zora Sword,-,-
+0xa76349337692545e,Link,I-6,3434,-1783,-675,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x7e3e5ea94ffcc717,Link,I-6,3893,-1000,-743,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x31e29c1e32962b41,Link,I-6,3681,-1816,-690,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xc49bd51e0ad53f85,Link,I-6,3044,-1091,-647,33%,Soldier's Spear,Traveler's Spear,Zora Spear,-,-
+0xc624c6508d5e9016,Link,I-6,3505,-1569,-678,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0x47e4567b2f3a5bca,Link,I-6,3203,-1870,-511,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x5639e9f042033a98,Link,I-6,3798,-1277,-855,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x851c1b9ce944a093,Link,I-6,3569,-1992,-621,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x5b02d45baf46e5d0,Link,I-7,3077,-2298,-510,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0xf614074c95852320,Link,I-7,3171,-2835,-516,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0xfc3b62407b56a8e4,Link,I-7,3829,-2446,-446,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xd09fdfa6d491008a,Link,I-7,3308,-2397,-640,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0x22970b16c4189c8f,Link,I-7,3317,-2918,-447,50%,Soldier's Spear,Traveler's Spear,-,-,-
+0xc7394d69afbce6e6,Link,I-7,3393,-2147,-561,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x95c0e6cbbbfba984,Link,I-7,3129,-2886,-605,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0xc40a84a26445f3cb,Link,I-7,3673,-2136,-638,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0xa399c6b3626f74ff,Link,I-7,3748,-2389,-446,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x226e83e72c84266a,Link,I-8,3221,-3010,-509,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0xec225a9dfda4679e,Link,I-8,3184,-3293,-627,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0xd66b56f7ddd8b67c,Link,I-8,3165,-3709,-445,33%,Knight's Claymore,Soldier's Claymore,Eightfold Longblade,-,-
+0x38c1d9a98e195433,Link,I-8,3447,-3335,-456,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0xc5b98906a25437e7,Link,I-8,3230,-3594,-450,50%,Knight's Halberd,Soldier's Spear,-,-,-
+0x546c8e6312d92a5e,Link,I-8,3164,-3422,-502,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x70f7cb89ab7052e0,Link,I-8,3372,-3287,-618,33%,Knight's Broadsword,Soldier's Broadsword,Eightfold Blade,-,-
+0x7e23093fcabfbe02,Link,J-1,4490,3329,-446,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xa4c51cd0db556a34,Link,J-1,4367,3290,-606,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0x424ca02777265176,Link,J-1,4675,3105,-444,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0xfe8c3d0579387560,Link,J-2,4191,2790,-568,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x7f409c0b7f1a5423,Link,J-2,4240,2292,-459,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0xf3480453f4461531,Link,J-2,4193,2032,-481,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x50af67c363d97dbc,Link,J-3,4031,1862,-535,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xedbc1da9ad1aeb5a,Link,J-3,4211,1803,-546,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x5a148fc30e93cefa,Link,J-3,4338,1443,-629,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0x2d48e8caf439b81a,Link,J-3,4190,1707,-566,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0x0a7fed006f440196,Link,J-3,4550,1695,-514,33%,Soldier's Spear,Traveler's Spear,Throwing Spear,-,-
+0xc6209f02ebf66092,Link,J-3,4077,1210,-677,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0xe57d78af02088335,Link,J-3,4248,1268,-667,33%,Soldier's Broadsword,Traveler's Sword,Boomerang,-,-
+0x020be145a63b3b29,Link,J-3,4584,1061,-608,33%,Knight's Broadsword,Soldier's Broadsword,Boomerang,-,-
+0x6064b7d433ae190f,Link,J-4,4410,907,-719,50%,Traveler's Claymore,Zora Longsword,-,-,-
+0xfdbe37695fd3245a,Link,J-4,4479,923,-537,50%,Traveler's Claymore,Zora Longsword,-,-,-
+0x11fdc6f592a156e5,Link,J-4,4644,788,-701,33%,Knight's Halberd,Soldier's Spear,Throwing Spear,-,-
+0x16317ee5fd969f68,Link,J-4,4289,815,-670,50%,Traveler's Sword,Zora Sword,-,-,-
+0x7344028d364d3314,Link,J-4,4221,424,-812,50%,Traveler's Sword,Zora Sword,-,-,-
+0xec5d1c010d0ac08e,Link,J-5,4143,-221,-471,33%,Soldier's Claymore,Traveler's Claymore,Zora Longsword,-,-
+0x7f34038af068d6d5,Link,J-5,4430,-466,-546,33%,Soldier's Spear,Traveler's Spear,Zora Spear,-,-
+0x9403a419b979bce7,Link,J-5,4325,-614,-495,33%,Soldier's Spear,Traveler's Spear,Zora Spear,-,-
+0x770e0c77503d7584,Link,J-6,4015,-1684,-777,50%,Soldier's Claymore,Traveler's Claymore,-,-,-
+0xac8656a3930bb1a2,Link,J-6,4466,-1740,-490,33%,Soldier's Claymore,Traveler's Claymore,Zora Longsword,-,-
+0x2515bbcaf27c53b4,Link,J-6,4463,-1434,-473,33%,Soldier's Spear,Traveler's Spear,Zora Spear,-,-
+0x51c466e90a8141fb,Link,J-6,4017,-1449,-833,50%,Soldier's Broadsword,Traveler's Sword,-,-,-
+0x4624e9e02da7a253,Link,J-6,4376,-1666,-513,33%,Soldier's Broadsword,Traveler's Sword,Zora Sword,-,-
+0x0a73b302f59153b7,Link,J-8,4536,-3743,-454,20%,Royal Claymore,Knight's Claymore,Soldier's Claymore,Giant Boomerang,Royal Guard's Claymore
+0x83ba246d992d663b,Link,J-8,4514,-3504,-446,20%,Royal Broadsword,Knight's Broadsword,Soldier's Broadsword,Boomerang,Royal Guard's Sword
