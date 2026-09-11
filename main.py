@@ -3,6 +3,8 @@ from fetch.armor import main as fetch_armor
 from fetch.bows import main as fetch_bow
 from fetch.shields import main as fetch_shields
 from fetch.weapons import main as fetch_weapons
+from fetch.materials import main as fetch_materials
+
 
 
 def main():
@@ -10,7 +12,8 @@ def main():
     # fetch_armor()
     # fetch_bow()
     # fetch_shields()
-    fetch_weapons()
+    # fetch_weapons()
+    fetch_materials()
 
 if __name__ == "__main__":
     main()
