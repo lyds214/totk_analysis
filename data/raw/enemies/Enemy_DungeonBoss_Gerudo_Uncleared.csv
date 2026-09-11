@@ -1,0 +1,2 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+383287,MinusField,E-4,0x5706019eafb6ec81,Enemy_DungeonBoss_Gerudo_Uncleared,Depths79,,0,,1,,,"[-249.22, -2366.88, -731.27]",Table,['Default']

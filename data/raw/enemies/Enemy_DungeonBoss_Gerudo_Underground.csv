@@ -1,0 +1,4 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+312414,MinusField,B-5,0x53b2def844096b26,Enemy_DungeonBoss_Gerudo_Underground,Depths0,,0,,1,,,"[-3635.72, -926.63, 837.64]",Table,['Default']
+338154,MinusField,C-5,0xdf76c0bc13e58828,Enemy_DungeonBoss_Gerudo_Underground,Depths63,,0,,1,,,"[-2720.7, -546.78, 76.67]",Table,['Default']
+433972,MinusField,G-5,0xbdd7e8309e28c9cc,Enemy_DungeonBoss_Gerudo_Underground,Depths65,,0,,1,,,"[949.46, -364.23, 461.06]",Table,['Default']

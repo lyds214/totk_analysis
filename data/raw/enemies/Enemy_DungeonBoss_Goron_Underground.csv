@@ -1,0 +1,4 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+338259,MinusField,C-5,0x7b802eb5a7a6b85c,Enemy_DungeonBoss_Goron_Underground,Depths77,,0,,1,,,"[-2792.86, -440.27, 759.01]",Table,['Default']
+433881,MinusField,G-5,0xbb0b9ac8feebde4b,Enemy_DungeonBoss_Goron_Underground,Depths65,,0,,1,,,"[1607.1, -354.04, 62.11]",Table,['Default']
+454252,MinusField,H-5,0x03b85d5d4e99b399,Enemy_DungeonBoss_Goron_Underground,Depths11,,0,,1,,,"[2145.3, -489.22, 627.77]",Table,['Default']

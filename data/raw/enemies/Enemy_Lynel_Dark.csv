@@ -1,0 +1,2 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+366618,MinusField,D-6,0xdff1b1bbd1ee4434,Enemy_Lynel_Dark,Depths6,,0,"['Weapon_Bow_032', 'Weapon_Sword_124', 'Weapon_Shield_018']",1,,,"[-1096.97, -393.89, 1249.39]",Table,['Minus_Arrow']
