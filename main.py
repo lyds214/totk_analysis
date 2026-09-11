@@ -6,6 +6,7 @@ from fetch.weapons import main as fetch_weapons
 from fetch.materials import main as fetch_materials
 from fetch.zonai_devices import main as fetch_zonai_devices
 from fetch.creatures import main as fetch_creatures
+from fetch.boss_fuse_drops import main as fetch_boss_fuse_drops
 
 
 
@@ -19,7 +20,8 @@ def main():
     # fetch_weapons()
     # fetch_materials()
     # fetch_zonai_devices()
-    fetch_creatures()
+    # fetch_creatures()
+    fetch_boss_fuse_drops()
 
 if __name__ == "__main__":
     main()

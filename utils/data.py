@@ -892,3 +892,17 @@ creature_names = [
     "Enemy_Dragon_Light_002",
     "Enemy_Bee_Swarm",
 ]
+
+boss_fuse_drop_names = [
+    "Item_Enemy_137",
+    "Item_Enemy_138",
+    "Item_Enemy_139",
+    "Item_Enemy_140",
+    "Item_Enemy_141",
+    "Item_Enemy_225",
+    "Item_Enemy_226",
+    "Item_Enemy_227",
+    "Item_Enemy_220",
+    "Item_Enemy_221",
+    "Item_Enemy_223",
+]
