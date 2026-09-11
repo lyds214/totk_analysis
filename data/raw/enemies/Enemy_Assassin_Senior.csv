@@ -1,0 +1,5 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,drop,pos
+305569,MinusField,B-3,0x5863a1100e153a6f,Enemy_Assassin_Senior,Depths18,,0,,1,,,,"[-3459.38, -311.49, -1861.18]"
+319946,MinusField,B-7,0x4d20d24517e351dc,Enemy_Assassin_Senior,Depths72,,0,,1,,,,"[-3768.14, -369.4, 2834.51]"
+392178,MinusField,E-6,0x262589b318566498,Enemy_Assassin_Senior,Depths46,,0,,1,,,,"[-727.19, -414.31, 1857.57]"
+475965,MinusField,I-4,0x94d108442670f0b4,Enemy_Assassin_Senior,Depths34,,0,,1,,,,"[3352.03, -637.44, -492.33]"

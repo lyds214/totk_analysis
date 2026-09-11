@@ -1,0 +1,4 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+137384,MainField,F-2,0xfae3ae2a20fcb13c,Enemy_Chuchu_Fire_Senior,Surface8,Thyphlo Ruins,0,,0,,,"[708.44, 287.07, -2354.13]",Table,['Default']
+170772,MainField,G-2,0x5894be273d245842,Enemy_Chuchu_Fire_Senior,Surface66,Eldin Canyon,0,,0,,,"[1714.46, 574.64, -2321.71]",Table,['Default']
+240586,MainField,I-2,0x5894be27f22e8012,Enemy_Chuchu_Fire_Senior,Surface7,Ulri Mountain,0,,0,,,"[3492, 262.21, -2808.7]",Table,['Default']

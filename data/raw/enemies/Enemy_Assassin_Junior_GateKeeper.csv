@@ -1,0 +1,8 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+37575,MainField,B-6,0x642df9aff577b294,Enemy_Assassin_Junior_GateKeeper,Surface4,Gerudo Highlands,0,,1,,,"[-3727.28, 433.93, 1399.62]",Table,['Default']
+37576,MainField,B-6,0x95e9852d3d2f6e94,Enemy_Assassin_Junior_GateKeeper,Surface4,Gerudo Highlands,0,,1,,,"[-3733.67, 433.8, 1391.55]",Table,['Default']
+37583,MainField,B-6,0xda59981a3fb6a303,Enemy_Assassin_Junior_GateKeeper,Surface4,Gerudo Highlands,0,,1,,,"[-3473.69, 441, 1311.16]",Table,['Default']
+37585,MainField,B-6,0xb80976b8a4c27f78,Enemy_Assassin_Junior_GateKeeper,Surface4,Gerudo Highlands,0,,1,,,"[-3479.27, 441.12, 1319.79]",Table,['Default']
+128322,MainField,E-7,0xc3de638b7f084671,Enemy_Assassin_Junior_GateKeeper,Surface46,Hyrule Field,0,,1,,,"[-794.25, 192.87, 2248.44]",Table,['Default']
+270181,MainField,J-1,0xd42d1e8ede32cbe9,Enemy_Assassin_Junior_GateKeeper,Surface20,Ulri Mountain,0,,1,,,"[4502.12, 351.39, -3148.26]",Table,['Default']
+539903,MainField,Cave__Cave_HyruleForest_0007_GroupSet_001 ,0x3b275ba833cd94cd,Enemy_Assassin_Junior_GateKeeper,Cave60,,0,,1,,,"[-653.14, 251.54, -2113.73]",Table,['Default']

@@ -1,0 +1,8 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+174819,MainField,G-2,0xb29b2621be2f03a5,Enemy_Moriblin_Junior_Lookout_Cliff,Surface66,Eldin Canyon,0,,1,,,"[1551.85, 431.32, -1984.08]",Table,['Default']
+175095,MainField,G-2,0x75c33acf0ace41d3,Enemy_Moriblin_Junior_Lookout_Cliff,Surface67,Eldin Canyon,0,,1,,,"[1602.38, 515.3, -2693.91]",Table,['Default']
+175267,MainField,G-2,0xb782e4867840438e,Enemy_Moriblin_Junior_Lookout_Cliff,Surface105,Eldin Canyon,0,,1,,,"[2179.54, 641.53, -2293.22]",Table,['Default']
+181304,MainField,G-3,0x5f82bb9eb93f8471,Enemy_Moriblin_Junior_Lookout_Cliff,Surface66,Eldin Canyon,0,,1,,,"[1987.94, 432.3, -1549.04]",Table,['Default']
+181511,MainField,G-3,0x135e1e266053750e,Enemy_Moriblin_Junior_Lookout_Cliff,Surface66,Eldin Canyon,0,,1,,,"[1476.11, 410.21, -1885]",Table,['Default']
+210329,MainField,H-2,0xf6d4af61a88c28a3,Enemy_Moriblin_Junior_Lookout_Cliff,Surface44,Eldin Canyon,0,,1,,,"[2491.05, 674.49, -2257.17]",Table,['Default']
+210580,MainField,H-2,0x5bdcd3badc45e3f3,Enemy_Moriblin_Junior_Lookout_Cliff,Surface105,Eldin Canyon,0,,1,,,"[2143.56, 642.3, -2565.88]",Table,['Default']

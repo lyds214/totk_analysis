@@ -1,0 +1,7 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+296710,MinusField,A-8,0x558d46e00260fd22,Enemy_Horablin_Dark,Depths21,,0,"['Weapon_Spear_124', 'Obj_SpikeBall_B']",1,,,"[-4255.63, -367.32, 3750.55]",Table,['Minus']
+296713,MinusField,A-8,0xc15e37bbc690b0e9,Enemy_Horablin_Dark,Depths40,,0,"['Weapon_Spear_124', 'Obj_SpikeBall_B']",1,,,"[-4363.83, -367.32, 3748.82]",Table,['Minus']
+299565,MinusField,B-1,0x758bf449ec0e3900,Enemy_Horablin_Dark,Depths39,,0,"['Weapon_Spear_108', 'Weapon_Spear_021']",1,,,"[-3748.25, -716.99, -3631.63]",Table,['Minus']
+299566,MinusField,B-1,0x051e02a626b81771,Enemy_Horablin_Dark,Depths39,,0,"['Weapon_Spear_108', 'Weapon_Spear_021']",1,,,"[-3797.54, -759.04, -3627.5]",Table,['Minus']
+299567,MinusField,B-1,0x8e883b3d16b4dc3c,Enemy_Horablin_Dark,Depths39,,1,"['Weapon_Spear_113', 'Weapon_Lsword_020']",1,,,"[-3952.66, -730.49, -3724.61]",Table,['Minus']
+299568,MinusField,B-1,0x136651ea6958e09d,Enemy_Horablin_Dark,Depths3,,0,"['Weapon_Spear_108', 'Weapon_Spear_021']",1,,,"[-3939.33, -729.09, -3733.99]",Table,['Minus']

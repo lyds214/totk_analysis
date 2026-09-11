@@ -1,0 +1,6 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+37574,MainField,B-6,0x3f3c2fec9242d4ba,Enemy_Assassin_Middle_Gatekeeper,Surface4,Gerudo Highlands,0,,1,,,"[-3729.49, 433.6, 1395.1]",Table,['Default']
+37586,MainField,B-6,0x560abcd7df4318eb,Enemy_Assassin_Middle_Gatekeeper,Surface4,Gerudo Highlands,0,,1,,,"[-3476.53, 441.06, 1315.19]",Table,['Default']
+128317,MainField,E-7,0x60b1af4f1c167327,Enemy_Assassin_Middle_Gatekeeper,Surface46,Hyrule Field,0,,1,,,"[-793.79, 193.1, 2260.95]",Table,['Default']
+270176,MainField,J-1,0x679a746356798729,Enemy_Assassin_Middle_Gatekeeper,Surface20,Ulri Mountain,0,,1,,,"[4513.21, 351.47, -3145.47]",Table,['Default']
+539909,MainField,Cave__Cave_HyruleForest_0007_GroupSet_001 ,0xa7cf26afac25a7e7,Enemy_Assassin_Middle_Gatekeeper,Cave60,,0,,1,,,"[-649.62, 251.55, -2114.36]",Table,['Default']

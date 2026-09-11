@@ -1,0 +1,7 @@
+objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
+27580,MainField,B-4,0x1429e6cbe00082af,Enemy_Lynel_Junior,Surface80,Gerudo Highlands,0,"['Weapon_Bow_009', 'Weapon_Spear_112']",0,,,"[-3378, 200.28, -30]",Table,['Arrow']
+54528,MainField,C-3,0xbd56cfe619f862ae,Enemy_Lynel_Junior,Surface81,Lindor's Brow,0,"['Weapon_Bow_009', 'Weapon_Spear_112']",0,,,"[-2169.75, 322.7, -1551.75]",Table,['Arrow']
+55046,MainField,C-3,0xcf9facf3b321a85a,Enemy_Lynel_Junior,Surface42,Pikida Stonegrove,1,"['Weapon_Bow_009', 'Weapon_Sword_112', 'Weapon_Shield_016']",0,,,"[-2799.32, 413.92, -1839.56]",Table,['Arrow']
+86679,MainField,D-4,0xbba5089292f5b303,Enemy_Lynel_Junior,Surface12,Lindor's Brow,0,"['Weapon_Bow_009', 'Weapon_Sword_112', 'Weapon_Shield_016']",0,,,"[-1553.58, 214.6, -138.47]",Table,['Arrow']
+242017,MainField,I-2,0x6b549b34c4879128,Enemy_Lynel_Junior,Surface20,Ulri Mountain,0,"['Weapon_Bow_009', 'Weapon_Lsword_112']",0,,,"[3680.69, 132.89, -2959]",Table,['Default']
+366619,MinusField,D-6,0x16e006fb8ac9ff6c,Enemy_Lynel_Junior,Depths6,,0,"['Weapon_Bow_009', 'Weapon_Sword_112', 'Weapon_Shield_016']",1,,,"[-1167.36, -394.13, 1321.01]",Table,['Minus_Arrow']
