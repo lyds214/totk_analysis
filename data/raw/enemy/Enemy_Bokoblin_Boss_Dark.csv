@@ -1,2 +1,0 @@
-objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
-291787,MinusField,A-6,0x39014243bee06cca,Enemy_Bokoblin_Boss_Dark,Depths0,,0,['Weapon_Sword_113'],1,,,"[-4295.76, -726.25, 1186.88]",Table,['Minus']

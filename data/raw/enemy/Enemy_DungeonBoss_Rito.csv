@@ -1,6 +1,0 @@
-objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,drop,pos,drop.type,drop.value
-552590,MainField,LargeDungeon__LargeDungeonWind ,0xe96399fb08047732,Enemy_DungeonBoss_Rito,Sky3,,0,,1,,,,"[-2919.5, 1800.43, -2998.5]",,
-283208,MinusField,A-1,0x286e9cf0d7028971,Enemy_DungeonBoss_Rito_Underground,Depths3,,0,,1,,,,"[-4370.9, -530.17, -3046.45]",Table,['Default']
-324980,MinusField,C-1,0x61f4596182a2bc09,Enemy_DungeonBoss_Rito_Underground,Depths99,,0,,1,,,,"[-2266.56, -710.87, -3266.33]",Table,['Default']
-373722,MinusField,D-8,0x9e1aa882afa5aa1b,Enemy_DungeonBoss_Rito_Underground,Depths73,,0,,1,,,,"[-1154.37, -529.53, 3626.16]",Table,['Default']
-383188,MinusField,E-4,0x957417f65edaf2e3,Enemy_DungeonBoss_Rito_Uncleared,Depths79,,0,,1,,,,"[-249.22, -2313.08, -636.27]",,

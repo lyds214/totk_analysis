@@ -1,5 +1,0 @@
-objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
-500990,MainField,Sky__SetEnemyBases_Drake_Mix_SkyIsland_PlacementSet_A-2 ,0xf113be5d455d6956,Enemy_Drake_Mix,Sky3,,0,,1,,,"[-4470.63, 1389.9, -2275.43]",Table,['Default']
-501147,MainField,Sky__SetEnemyBases_Drake_Mix_SkyIsland_PlacementSet_A-7 ,0x2ea860e965c643f1,Enemy_Drake_Mix,Sky21,,0,,1,,,"[-4447.82, 1556.13, 2627.47]",Table,['Default']
-501359,MainField,Sky__SetEnemyBases_Drake_Mix_SkyIsland_PlacementSet_J-8 ,0xd064b8c5f77b77d9,Enemy_Drake_Mix,Sky28,,0,,1,,,"[4652.31, 1201.97, 3724.45]",Table,['Default']
-399970,MinusField,F-1,0xf337052fe9b2958d,Enemy_Drake_Mix,Depths88,,0,,1,,,"[333.52, -463.91, -3122.09]",Table,['Minus']

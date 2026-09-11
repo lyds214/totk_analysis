@@ -1,3 +1,0 @@
-objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
-366620,MinusField,D-6,0xa046572acecea033,Enemy_Lynel_Boss_Dark,Depths6,,0,"['Weapon_Bow_032', 'Weapon_Lsword_124', 'Obj_SpikeBall_B']",1,,,"[-1192.48, -393.59, 1222.32]",Table,['Minus_Arrow']
-410115,MinusField,F-5,0x23da9af489c2b136,Enemy_Lynel_Boss_Dark,Depths65,,0,"['Weapon_Bow_032', 'Weapon_Spear_124']",0,,,"[1083.7, -361.28, 266.92]",Table,['Minus']

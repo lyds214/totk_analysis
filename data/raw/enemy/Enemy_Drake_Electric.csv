@@ -1,4 +1,0 @@
-objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
-96467,MainField,D-6,0x31744f7816dd5de7,Enemy_Drake_Electric,Surface32,Hyrule Field,0,,1,,,"[-1150.15, 152.19, 1262.97]",Table,['Default']
-204101,MainField,G-8,0xf481455f6b06d972,Enemy_Drake_Electric,Surface24,Popla Foothills,0,,1,,,"[1059, 183.93, 3614]",Table,['Default']
-247867,MainField,I-3,0xe0a91bfe4ab7bc32,Enemy_Drake_Electric,Surface2,Ulri Mountain,0,,1,,,"[3422.8, 442.7, -1298.45]",Table,['Default']

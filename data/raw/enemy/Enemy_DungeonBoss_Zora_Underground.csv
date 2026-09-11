@@ -1,4 +1,0 @@
-objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
-356675,MinusField,D-3,0x382c9d3a1d195e40,Enemy_DungeonBoss_Zora_Underground,Depths60,,0,,1,,,"[-1243.78, -443.65, -2014.32]",Table,['Default']
-451117,MinusField,H-4,0x4658f2822e7efbdd,Enemy_DungeonBoss_Zora_Underground,Depths85,,0,,1,,,"[2837, -685.82, -610]",Table,['Default']
-472846,MinusField,I-3,0x484f0e18aae7d6ed,Enemy_DungeonBoss_Zora_Underground,Depths33,,0,,1,,,"[3671.08, -434.82, -1680.5]",Table,['Default']

@@ -1,8 +1,0 @@
-objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
-500305,MainField,Sky__Pln_Fld_Rito_SkyField_Start_01 ,0x963d5c93884b0a73,Enemy_Zonau_BlockMaster_Junior,Sky3,,0,,1,,,"[-3471.79, 1035.9, -3519.27]",Table,['Default']
-507246,MainField,Sky__Set_SkyIsland_HyruleForest_F-2_Sky ,0x7a0a9a52d097dbd5,Enemy_Zonau_BlockMaster_Junior,Sky8,,0,,1,,,"[442.06, 1767.27, -2467.88]",Table,['Default']
-510475,MainField,Sky__Set_SkyIsland_Tabanta_B-2 ,0x8ddc63ed86028894,Enemy_Zonau_BlockMaster_Junior,Sky3,,0,,1,,,"[-3834.43, 650.1, -2720.75]",Table,['Default']
-520659,MainField,Sky__StartIslandMerge2 ,0xc7c3db738495caef,Enemy_Zonau_BlockMaster_Junior_Beginning,Sky94,,0,,1,,,"[491.65, 1544.55, 1516.38]",Table,['StartIsland']
-339358,MinusField,C-6,0xf9ca7f607ba249fc,Enemy_Zonau_BlockMaster_Junior,Depths4,,0,,0,,,"[-2182.06, -580.84, 1502.59]",Table,['Minus']
-411072,MinusField,F-5,0x52bb4b3446db6dab,Enemy_Zonau_BlockMaster_Junior,Depths32,,0,,0,,,"[717.13, -352.1, 644]",Table,['Minus']
-422080,MinusField,F-8,0xca283a1ea746e622,Enemy_Zonau_BlockMaster_Junior,Depths24,,0,,0,,,"[100.87, -347.08, 3714.13]",Table,['Minus']
