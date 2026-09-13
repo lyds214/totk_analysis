@@ -1,5 +1,0 @@
-objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
-349964,MinusField,D-2,0xb7c892120179f208,Enemy_Lynel_Boss_Senior,Depths5,,1,"['Weapon_Bow_032', 'Weapon_Lsword_124']",0,,,"[-1602.82, -579.03, -2523.13]",Table,['Minus']
-357275,MinusField,D-4,0x5b32186d9e14397b,Enemy_Lynel_Boss_Senior,Depths26,,0,"['Weapon_Bow_032', 'Weapon_Lsword_124']",0,,,"[-1224.31, -446.34, -763.76]",Table,['Minus']
-421453,MinusField,F-8,0x1857c7a0ad9860fb,Enemy_Lynel_Boss_Senior,Depths36,,0,"['Weapon_Bow_032', 'Weapon_Lsword_124']",0,,,"[499.52, -394.56, 3456.91]",Table,['Minus']
-434307,MinusField,G-6,0x28f83fe7a8be90d2,Enemy_Lynel_Boss_Senior,Depths1,,0,"['Weapon_Bow_032', 'Weapon_Lsword_124']",0,,,"[1761.31, -357.88, 1926.24]",Table,['Minus']

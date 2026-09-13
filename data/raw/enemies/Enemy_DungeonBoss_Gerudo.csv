@@ -1,7 +1,0 @@
-objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,drop,pos,drop.type,drop.value
-551524,MainField,LargeDungeon__LargeDungeonThunder ,0x9ad909f233102eba,Enemy_DungeonBoss_Gerudo,Surface21,Gerudo Canyon,0,,1,,,,"[-4378.2, 130.7, 3470.78]",,
-551550,MainField,LargeDungeon__LargeDungeonThunder ,0x8c2e82a7d12f2460,Enemy_DungeonBoss_Gerudo,Surface40,Gerudo Canyon,0,,1,,,,"[-4494.77, 232.67, 3587.74]",,
-312414,MinusField,B-5,0x53b2def844096b26,Enemy_DungeonBoss_Gerudo_Underground,Depths0,,0,,1,,,,"[-3635.72, -926.63, 837.64]",Table,['Default']
-338154,MinusField,C-5,0xdf76c0bc13e58828,Enemy_DungeonBoss_Gerudo_Underground,Depths63,,0,,1,,,,"[-2720.7, -546.78, 76.67]",Table,['Default']
-383287,MinusField,E-4,0x5706019eafb6ec81,Enemy_DungeonBoss_Gerudo_Uncleared,Depths79,,0,,1,,,,"[-249.22, -2366.88, -731.27]",Table,['Default']
-433972,MinusField,G-5,0xbdd7e8309e28c9cc,Enemy_DungeonBoss_Gerudo_Underground,Depths65,,0,,1,,,,"[949.46, -364.23, 461.06]",Table,['Default']

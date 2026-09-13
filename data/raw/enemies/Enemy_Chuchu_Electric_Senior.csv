@@ -1,3 +1,0 @@
-objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
-27894,MainField,B-4,0x0b69412d3f1661df,Enemy_Chuchu_Electric_Senior,Surface27,Gerudo Highlands,0,,0,,,"[-3923.17, 157.49, -93.27]",Table,['Default']
-40251,MainField,B-7,0x08fc2c3f68efbd91,Enemy_Chuchu_Electric_Senior,Surface72,Gerudo Canyon,0,,0,,,"[-3896.75, 147.49, 2547.88]",Table,['Default']

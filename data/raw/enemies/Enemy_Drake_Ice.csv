@@ -1,4 +1,0 @@
-objid,map_type,map_name,hash_id,name,fieldarea,region,scale,equip,map_static,korok_id,korok_type,pos,drop.type,drop.value
-21129,MainField,B-2,0xfcc9c08d9415f872,Enemy_Drake_Ice,Surface3,Rospro Pass,0,,1,,,"[-3743.29, 502, -2991.56]",Table,['Default']
-32759,MainField,B-5,0x6659a6fac5a604df,Enemy_Drake_Ice,Surface0,Gerudo Highlands,0,,1,,,"[-4023.77, 813.94, 955.5]",Table,['Default']
-78116,MainField,D-1,0xeebc791dcad54787,Enemy_Drake_Ice,Surface5,Pikida Stonegrove,0,,1,,,"[-1834.5, 354, -3009.06]",Table,['Default']
